@@ -3,8 +3,14 @@ function add() {
   
 }
 
-subtract()
+function subtract() {
+  
+}
 
-multiply()
+function multiply() {
+  
+}
 
-divide()
+function divide() {
+  
+}
