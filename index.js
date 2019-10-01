@@ -24,7 +24,9 @@ function inc(a) {
 }
 
 function dec(b) {
-  return n-- ; 
+  var number = b ; 
+  number++ ; 
+  return number ; 
   
 }
 
