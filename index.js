@@ -18,7 +18,8 @@ function divide(a,b) {
 
 function inc(a) {
   var number = a ; 
-  return number++ ; 
+  number++ ; 
+   return number ; 
   
 }
 
