@@ -23,7 +23,7 @@ function inc(a) {
   
 }
 
-function dec(n) {
+function dec(b) {
   return n-- ; 
   
 }
